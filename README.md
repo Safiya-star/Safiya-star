@@ -75,8 +75,11 @@ A planned AI-enabled production intelligence platform currently in solution desi
 
 ### 🚧 In Active Development
 
-**Lead Generation Intelligence System**  
-A business intelligence and lead-generation platform for identifying and evaluating SMB prospects. Built with Python, Flask, SQL, SQLite, and external APIs to discover businesses, structure company data, prevent duplicates, track business signals, and support lead scoring and opportunity identification.
+**Lead Generation Intelligence System**
+
+Business intelligence and lead generation platform for discovering, evaluating, and prioritizing SMB prospects. Built with Python, Flask, SQL, SQLite, and external APIs, with workflows for business discovery, data normalization, duplicate prevention, company intelligence, and lead search tracking. The system includes relational structures for signal detection, lead scoring, and opportunity identification, with those intelligence workflows currently being expanded and automated.
+
+[View repository →](https://github.com/Safiya-star/lead-generation-intelligence)
 
 **Go DJ**  
 A music technology MVP exploring intelligent DJ workflows, audio processing, song mixing, stem separation, and crowd-engagement concepts. Currently being developed through a milestone-based product development process.
