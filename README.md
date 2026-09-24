@@ -12,7 +12,7 @@ My work focuses on translating business requirements into working systems using 
 
 A production registration and administration platform built for an operating dance organization. The system manages multi-student families, enrollment, tuition, payments, agreements, and administrative workflows.
 
-**Tech Stack:** Python • Flask • SQLite • JavaScript • Jinja2 • ReportLab • REST APIs • Git/GitHub
+**Tech Stack:** Python • Flask • SQLite • JavaScript • Jinja2 • ReportLab • API Integration • Git/GitHub
 
 **Key Highlights**
 - Designed a relational database supporting family accounts and multi-student registration
@@ -43,6 +43,7 @@ A production-deployed CRM that transforms QR-code event interactions into struct
 - Deployed the application for live business use
 
 ➡️ [View the Event Lead CRM repository](https://github.com/Safiya-star/event-lead-crm)
+
 ## 🛠️ Technical Toolkit
 
 **AI & Automation**  
