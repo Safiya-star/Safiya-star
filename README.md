@@ -23,9 +23,7 @@ A production registration and administration platform built for an operating dan
 - Managed production deployment, database migrations, backups, and testing
 - Translated live user feedback into production enhancements
 
-**Status:** Production system currently in use and under active development
 [View project case study →](https://github.com/Safiya-star/total-dance-management-system)
----
 
 ### Event Lead CRM
 
@@ -42,7 +40,7 @@ A production-deployed CRM that transforms QR-code event interactions into struct
 - Built a protected administrative dashboard
 - Deployed the application for live business use
 
-➡️ [View the Event Lead CRM repository](https://github.com/Safiya-star/event-lead-crm)
+[View repository →](https://github.com/Safiya-star/event-lead-crm)
 
 ## 🛠️ Technical Toolkit
 
