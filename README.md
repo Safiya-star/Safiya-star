@@ -24,7 +24,7 @@ A production registration and administration platform built for an operating dan
 - Translated live user feedback into production enhancements
 
 **Status:** Production system currently in use and under active development
-➡️ [View the Total Dance Management System case study](https://github.com/Safiya-star/total-dance-management-system)
+[View project case study →](https://github.com/Safiya-star/total-dance-management-system)
 ---
 
 ### Event Lead CRM
