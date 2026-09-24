@@ -65,13 +65,13 @@ I'm currently developing AI and business solutions that combine application deve
 
 My work focuses on the full solution lifecycle — understanding business requirements, designing technical solutions, building and testing applications, integrating external services, and deploying systems for real-world use.
 
-### 🤖 AI & Solutions Projects
-
-**Film Production Intelligence System**  
-An AI-enabled production intelligence platform designed to support film budgeting, scheduling, research, production planning, and decision-making using Python, SQL, APIs, document retrieval, and AI-assisted analysis.
+### 🔬 Solution Research & Design
 
 **Historical Research Assistant**  
-A RAG and LLM-powered research application that retrieves source information, extracts structured data, and transforms research into organized outputs for historical analysis.
+An AI-assisted research concept currently in requirements discovery and workflow testing. Exploring the use of RAG, LLMs, source retrieval, and structured data extraction to support historical research.
+
+**Film Production Intelligence System**  
+A planned AI-enabled production intelligence platform currently in solution design. The concept explores how AI, document retrieval, APIs, and structured production data could support budgeting, scheduling, research, and production planning.
 
 ### 🚧 In Active Development
 
